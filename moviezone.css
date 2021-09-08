@@ -24,7 +24,8 @@ body{
 }
 
 .home-image{
-    background-image: url(assets/money.png);
+    /* background-image: url(assets/money.png); */
+    background-image:url(https://www.denofgeek.com/wp-content/uploads/2021/08/money-heist-season-4-recap.jpeg?fit=2000%2C1125) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
