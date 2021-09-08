@@ -34,6 +34,7 @@ body{
     border-radius: 20px;
     position: relative;
     filter: brightness();
+    z-index: -1;
 }
 
 .home-image-text{
